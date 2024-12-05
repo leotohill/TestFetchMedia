@@ -1,0 +1,7 @@
+{
+  "name": "TestFetchMedia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
